@@ -33,7 +33,7 @@ The report consists of three main analytical views:
 3. Explore the interactive visuals by using the slicers for Date, Vehicle Type, and Booking Status.
 
 ## 📬 Contact
-**Kareem elrawady ** www.linkedin.com/in/kareem-elrawady
+Kareem elrawady  www.linkedin.com/in/kareem-elrawady
 
   
 kareemlerawady@gmail.com
