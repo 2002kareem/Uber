@@ -1,0 +1,28 @@
+# Power BI Desktop specific
+*.tmp
+*.pbit
+*.pbip
+*.pbi
+
+# Power BI User specific settings
+# This prevents your personal layout/view settings from being pushed
+SecurityBindings
+[Content_Types].xml
+DiagramLayout
+Settings
+Metadata
+Version
+
+# Local Data / Cache
+# If you ever export data to CSV/Excel, this prevents them from being uploaded
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Git ignore
+.gitignore
